@@ -1,0 +1,26 @@
+Meal,Standard breakfast,Standard lunch,Standard dinner,Weekday egg muffin breakfast,Weekend egg muffin breakfast,Seafood dinner,Pasta lunch,Rice and pinto beans dinner,Mango dessert,Vanilla soymilk drink
+Brown rice,0,0,0,0,0,0,0,1,0,0
+Whole wheat bread,0,1,0,0,0,0,0,0,0,0
+Whole wheat cereal,1,0,0,0,0,0,0,0,0,0
+Whole wheat muffin,0,0,0,1,2,0,0,0,0,0
+Whole wheat pasta,0,0,0,0,0,0,1,0,0,0
+Boneless skinless chicken breast,0,0,1,0,0,0,0,0,0,0
+Salmon,0,0,0,0,0,1,0,0,0,0
+Pinto beans,0,0,0,0,0,0,0,1,0,0
+Black beans,0,0,0,0,0,0,0,0,0,0
+Peanut butter,0,1,0,0,0,0,0,0,0,0
+Eggs,0,0,0,1,1,0,0,0,0,0
+Vanilla soymilk,0,0,0,0,0,0,0,0,0,1
+Unsweet soymilk,1,0,0,0,0,0,0,0,0,0
+Spinach,0,0,1,0,0,0,0,0,0,0
+Broccoli,0,0,0,0,0,1,0,1,0,0
+Carrots,0,1,0,0,0,0,1,0,0,0
+Tomatoes,0,0,1,0,0,0,0,0,0,0
+Banana,1,0,0,1,1,0,0,0,0,0
+Strawberries,1,0,0,0,0,0,0,0,0,0
+Mangos,0,0,0,0,0,0,0,0,1,0
+Strawberry jam,0,1,0,0,0,0,0,0,0,0
+Marinara sauce,0,0,0,0,0,0,1,0,0,0
+American cheese,0,0,0,1,2,0,0,0,0,0
+Olive oil,0,0,1,0,0,0,0,0,0,0
+Salt,0,0,1,0,0,1,0,0,0,0

@@ -1,0 +1,11 @@
+Meal,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+Standard breakfast,1,1,1,0,0,0,0
+Standard lunch,1,1,1,1,1,0,0
+Standard dinner,1,1,1,0,0,0,0
+Weekday egg muffin breakfast,0,0,0,1,1,0,0
+Weekend egg muffin breakfast,0,0,0,0,0,1,2
+Seafood dinner,0,0,0,0,0,1,1
+Pasta lunch,0,0,0,0,0,1,1
+Rice and pinto beans dinner,0,0,0,1,1,0,0
+Mango dessert,1,1,1,1,1,1,1
+Vanilla soymilk drink,1,1,1,1,1,0,0
